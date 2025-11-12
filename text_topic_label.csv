@@ -1,0 +1,4 @@
+topic_num,topics,label
+0,"['cough', 'pain', 'days', 'kind', 'symptoms']",0
+1,"['pain', 'knee', 'shoulder', 'wrist', 'elbow']",1
+2,"['breath', 'copd', 'months', 'short', 'years']",2
