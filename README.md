@@ -1,6 +1,6 @@
 # healthcare_text_files
 
-Clinical text conversation ML solutions
+Healthcare text conversation data science solutions
 
 Workflow:
 - get_topic
